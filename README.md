@@ -1,4 +1,4 @@
-# Professional-portfolio
+# Digital-portfolio
   * A digital representation of my progression through computer programming bootcamp.
 
   ## Purpose
@@ -9,7 +9,7 @@
     * CSS
 
 	## Website
-  https://cphill11.github.io/professional-portfolio/
+ https://cphill11.github.io/digital-portfolio/
 	
   ## Contribution
   Made with ❤️ by Criste L. Phillips
